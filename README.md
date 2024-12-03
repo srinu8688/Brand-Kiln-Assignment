@@ -32,7 +32,7 @@ Follow these steps to set up the project locally:
 
 Clone the repository:
 
-git clone https://github.com/srinu8688/Brand-Kiln-Assignment.git
+git clone https://github.com/srinu8688/Brand-Kiln-Ass.git
 cd task-dashboard
 
 Install dependencies:-
